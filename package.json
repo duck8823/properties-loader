@@ -1,0 +1,19 @@
+{
+  "name": "properties-loader",
+  "version": "0.0.1",
+  "description": "properties file to json object",
+  "main": "properties-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duck8823/properties-loader.git"
+  },
+  "author": "maeda <duck8823@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duck8823/properties-loader/issues"
+  },
+  "homepage": "https://github.com/duck8823/properties-loader#readme"
+}
