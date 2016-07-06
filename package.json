@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/duck8823/properties-loader/issues"
   },
-  "homepage": "https://github.com/duck8823/properties-loader#readme"
+  "homepage": "https://github.com/duck8823/properties-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.15"
+  }
 }
